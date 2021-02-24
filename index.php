@@ -13,10 +13,7 @@
   <nav class="navbar navbar-light bg-primary">
   <span class="navbar-brand mb-0 text-white font-weight-bold">Seguidores do Instagram</span>
 </nav>
-<br><br><br>
-<div>
-</div>
-<br>
+<br><br><br><br>
 <div>
 <h2><span class="font-weight-bold text-white" ><?php print "Usuário: " . $usuario; ?></span></h2>
 </div>
